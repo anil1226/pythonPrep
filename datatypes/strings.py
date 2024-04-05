@@ -13,3 +13,5 @@ print(text4.strip())
 text5 = "k"
 if text5 in text4:
     print("found in text")
+
+text10 = "bye"
